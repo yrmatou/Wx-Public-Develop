@@ -40,7 +40,7 @@ router.get('/', async (ctx) => {
 ```
 URL和token校验通过后可以直接开发你的需求业务代码  
 ![image](https://user-images.githubusercontent.com/21699695/121777720-2171c780-cbc6-11eb-9a67-3f49a025fd14.png)  
-建议是现在微信测试平台开发测试 开发测试完后再配置到自己的公众号上面  
+建议是先在微信测试平台开发测试 开发测试完后再配置到自己的公众号上面  
 
 ### 服务器运行
 * pm2 守护进程
