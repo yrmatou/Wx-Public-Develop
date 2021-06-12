@@ -38,10 +38,13 @@ router.get('/', async (ctx) => {
     }
 })
 ```
-URL和token校验通过后可以直接开发你的需求业务代码  
+URL和token校验通过后可以直接开发你的需求业务代码，业务代码各有千秋    
 ![image](https://user-images.githubusercontent.com/21699695/121777720-2171c780-cbc6-11eb-9a67-3f49a025fd14.png)  
 建议是先在微信测试平台开发测试 开发测试完后再配置到自己的公众号上面  
 **夸一个微信做这个微信公众号测试平台真的很爽，本地用这个开发所有需求跟功能，开发完直接可以部署自己公众号**
 
 ### 服务器运行
-* pm2 守护进程
+* pm2 守护进程  
+
+### 学习交流
+![image](https://user-images.githubusercontent.com/21699695/121777897-eae87c80-cbc6-11eb-961b-57e3df81b0d1.png)
