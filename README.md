@@ -46,5 +46,10 @@ URL和token校验通过后可以直接开发你的需求业务代码，业务代
 ### 服务器运行
 * pm2 守护进程  
 
+**辛苦！辛苦！喝口水！哈哈哈**
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/121778277-d6a57f00-cbc8-11eb-9b28-13462b3fde2f.png" alt="Editor" width="200">
+</div>
+
 ### 学习交流
 ![image](https://user-images.githubusercontent.com/21699695/121777897-eae87c80-cbc6-11eb-961b-57e3df81b0d1.png)
