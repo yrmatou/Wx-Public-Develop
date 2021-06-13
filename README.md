@@ -52,4 +52,6 @@ URL和token校验通过后可以直接开发你的需求业务代码，业务代
 </div>
 
 ### 学习交流
-![image](https://user-images.githubusercontent.com/21699695/121777897-eae87c80-cbc6-11eb-961b-57e3df81b0d1.png)
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/121777897-eae87c80-cbc6-11eb-961b-57e3df81b0d1.png" alt="Editor" width="200">
+</div>
